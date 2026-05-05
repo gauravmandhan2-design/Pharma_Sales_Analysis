@@ -12,5 +12,18 @@ Analyzed pharmaceutical sales data to identify trends, top-performing categories
 - Demand peaks during winter months (Oct–Jan), indicating strong seasonality
 - Allergy drugs show lowest demand (~5%) and are highly seasonal
 - Psychiatric drugs show stable demand across the year (chronic usage pattern)
-  
+
+# Dashboard Preview
+![Dashboard_Pharma_Sales_Analysis](Dashboard_Pharma_Sales_Analysis.png)
+
+# SQL Analysis
+![Pharma_Sales_SQL_Analysis](Pharma_Sales_SQL_Analysis.png)
+
+# Python Analysis
+![Pharma_Sales_Python_Analysis](Pharma_Sales_Python_Analysis.png)
+
+
+
+
+
 
