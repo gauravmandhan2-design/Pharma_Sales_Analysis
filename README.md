@@ -1,0 +1,16 @@
+# Overview
+Analyzed pharmaceutical sales data to identify trends, top-performing categories, and revenue drivers.
+
+# Tools Used
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib / Seaborn)
+- SQL
+- Power BI
+
+# Key Insights
+- Painkillers contribute ~56% of total demand, making them the dominant category
+- Demand peaks during winter months (Oct–Jan), indicating strong seasonality
+- Allergy drugs show lowest demand (~5%) and are highly seasonal
+- Psychiatric drugs show stable demand across the year (chronic usage pattern)
+  
+
