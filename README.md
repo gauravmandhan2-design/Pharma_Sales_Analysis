@@ -14,13 +14,13 @@ Analyzed pharmaceutical sales data to identify trends, top-performing categories
 - Psychiatric drugs show stable demand across the year (chronic usage pattern)
 
 # Dashboard Preview
-![Dashboard_Pharma_Sales_Analysis](Dashboard_Pharma_Sales_Analysis.png)
+![Pharma Sales Analysis Dashboard](Dashboard_Pharma_Sales_Analysis.png)
 
 # SQL Analysis
-![Pharma_Sales_SQL_Analysis](Pharma_Sales_SQL_Analysis.png)
+![Pharma Sales SQL Analysis](Pharma_Sales_SQL_Analysis.png)
 
 # Python Analysis
-![Pharma_Sales_Python_Analysis](Pharma_Sales_Python_Analysis.png)
+![Pharma Sales Python Analysis](Pharma_Sales_Python_Analysis.png)
 
 # Conclusion
 
