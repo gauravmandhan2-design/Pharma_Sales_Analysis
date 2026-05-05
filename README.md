@@ -22,9 +22,9 @@ Analyzed pharmaceutical sales data to identify trends, top-performing categories
 # Python Analysis
 ![Pharma_Sales_Python_Analysis](Pharma_Sales_Python_Analysis.png)
 
-## Conclusion
+# Conclusion
 
-# The analysis highlights strong seasonal behavior in certain drug categories and stable consumption in others, which can help in demand planning and inventory management.
+The analysis highlights strong seasonal behavior in certain drug categories and stable consumption in others, which can help in demand planning and inventory management.
 
 
 
